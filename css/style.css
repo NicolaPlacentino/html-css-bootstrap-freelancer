@@ -1,11 +1,5 @@
-*{
-    border: 1px dashed gray;
-}
-
 header{
     background-color: #2c3e50;
-
-    color: white;
 }
 
 .bi.bi-list{
@@ -18,7 +12,7 @@ header{
     color: white;
 }
 
-.bgc-white{
+/* .bg-white{
     background-color: white;
 
     color: #2c3e50;
@@ -51,7 +45,7 @@ header{
 footer{
     background-color: #3a546d;
     color: white;
-}
+} */
 
 .copyright{
     background-color: #2c3e50;
