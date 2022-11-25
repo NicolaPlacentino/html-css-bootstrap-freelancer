@@ -40,6 +40,17 @@ textarea.form-control{
 
 .main-footer{
     background-color: #3a546d;
+    font-size: 18px;
+}
+
+.main-footer span{
+    height: 45px;
+    width: 45px;
+}
+
+.text-aqua{
+    text-decoration: none;
+    color: #1abc9c;
 }
 
 .copyright{
