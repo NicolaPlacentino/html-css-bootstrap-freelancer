@@ -12,6 +12,15 @@ header{
     color: white;
 }
 
+.start-bootstrap img{
+    width: 250px;
+}
+
+.color-dark-gray{
+    color: #2c3e50;
+}
+
+
 /* .bg-white{
     background-color: white;
 
